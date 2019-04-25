@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  devopstest:
+    image: devopstest
+    build:
+      context: .\DevOpsTest
+      dockerfile: Dockerfile
