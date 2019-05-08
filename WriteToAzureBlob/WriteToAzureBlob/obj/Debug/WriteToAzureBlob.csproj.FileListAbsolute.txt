@@ -1,0 +1,14 @@
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\WriteToAzureBlob.exe.config
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\WriteToAzureBlob.exe
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\WriteToAzureBlob.pdb
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.Azure.Storage.Common.dll
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Newtonsoft.Json.dll
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\bin\Debug\Newtonsoft.Json.xml
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\obj\Debug\WriteToAzureBlob.csprojResolveAssemblyReference.cache
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\obj\Debug\WriteToAzureBlob.exe
+c:\users\alok.bhatnagar\documents\visual studio 2017\Projects\WriteToAzureBlob\WriteToAzureBlob\obj\Debug\WriteToAzureBlob.pdb
