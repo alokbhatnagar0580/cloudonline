@@ -9,7 +9,7 @@ namespace ServiceBusPoC
 {
     class Program
     {
-        const string connectionString = "Endpoint=sb://pocservicebusalok.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=E1fwqbNOwDsFJprpHdsBhCFZ9iYYfO5ndIOHYedXAds="; // get it from azure portal from service bus namespace shared                                                                           //access policy 
+        const string connectionString = ""; // get it from azure portal from service bus namespace shared                                                                           //access policy 
         const string queueName = "msgqueue";
         //QueueClient _client; 
         static void Main(string[] args)
